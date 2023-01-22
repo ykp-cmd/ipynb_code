@@ -1,6 +1,6 @@
 # image-processing
 Background to the creation of the app is that I was seeking for a effective image processing application for free. However,I would say the free tools weren't sufficient in terms of features.That motivated me to build my own app.
-In an abstract, input the background image what you like and the image you want to paste, then process each and combine them.
+In an abstract, input an image of a background of your choice and an image of a person or object to be cropped, process each and merge them together.
 
 
 
