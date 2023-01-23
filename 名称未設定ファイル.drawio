@@ -1,1 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T08:48:19.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" version="20.8.10" etag="QuC-mgOerXDUDN8Vm6V3" type="github"><diagram name="ページ1" id="1YHFuEbtIeBNnzegZ0mt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T11:22:58.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="3JpWME5e1UfRY6S0uqNl" version="20.8.10" type="github">
+  <diagram name="ページ1" id="1YHFuEbtIeBNnzegZ0mt">
+    <mxGraphModel dx="834" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2AwD90XZrob1TwBY8TbG-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;mask&lt;/font&gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0182" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="414" y="199.5" as="sourcePoint" />
+            <mxPoint x="524" y="199.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="444" y="199.5" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2AwD90XZrob1TwBY8TbG-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;input &amp;nbsp;facade and &amp;nbsp;background images&lt;/font&gt;" style="shape=rect;html=1;rounded=1;dashed=1;strokeWidth=2;verticalAlign=top;whiteSpace=wrap;align=center;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="410" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2AwD90XZrob1TwBY8TbG-7" value="output" style="shape=rect;html=1;rounded=1;dashed=1;strokeWidth=2;verticalAlign=top;whiteSpace=wrap;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="60" width="200" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
