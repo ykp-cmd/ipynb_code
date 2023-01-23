@@ -1,10 +1,6 @@
 # image-processing
 Background to the creation of the app is that I was seeking for a effective image processing application for free. However,I would say the free tools weren't sufficient in terms of features.That motivated me to build my own app.
 In an abstract, input an image of a background of your choice and an image of a person or object to be cropped, process each and merge them together.
+![2023-01-23 20 40のイメージ](https://user-images.githubusercontent.com/64636363/214032504-5934db0e-46da-4289-b7be-f21c7a2c00da.jpg)
 
-
-
-<img src="https://user-images.githubusercontent.com/64636363/213914159-5bb4b32d-e271-421b-8a8f-ad553290aaf0.jpg" width="300px">
-<img src="https://user-images.githubusercontent.com/64636363/213914163-cda3ad7d-507e-426f-a8f1-073c9756bdfa.jpg" width="500px">
-<img src="https://user-images.githubusercontent.com/64636363/213912845-be81648d-2848-4c50-b47d-45895dea651c.JPG" width="300px">
 
