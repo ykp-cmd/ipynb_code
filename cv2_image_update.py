@@ -118,11 +118,6 @@ class CapyImSyn:
         plt.show()
         return rs2
 
-fgImgs = sorted(glob.glob('/content/drive/MyDrive/Colab Notebooks/CycleGAN_Project/pytorch-CycleGAN-and-pix2pix/datasets/capycopied/fgcapy/*.jpg'))
-bgImgs = glob.glob('/content/drive/MyDrive/Colab Notebooks/CycleGAN_Project/pytorch-CycleGAN-and-pix2pix/datasets/capycopied/bgcapy/*.jpg')
-fgImg_count = len(fgImgs)
-bgImg_count = len(bgImgs)
-
 def main(args):
     fgImgs = sorted(glob.glob(args.fg_path))
     bgImgs = glob.glob(args.bg_path)
